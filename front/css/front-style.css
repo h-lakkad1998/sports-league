@@ -1,0 +1,26 @@
+.nls-widget-template .nsl-sports-container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.nls-widget-template .nsl-sports-container{
+    display: inline-block;
+    padding-top: 4%;
+}
+  
+.nls-widget-template .list-box {
+    float: left;
+    width: 50%;
+    height: 250px;
+}
+.nls-widget-template .list-box .img-box img{
+ height: 200px;
+ width: 200px;
+}
+.nls-widget-template .nsl-searchbox-available .nsl-search-box{
+    float: right;
+    margin-right: 33px;
+}
+.nls-widget-template .nsl_ajax_pagination {
+    text-align: center;
+}
